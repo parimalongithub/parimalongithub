@@ -31,5 +31,5 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/parimalpawar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/parimalpawar12" height="30" width="40" /></a>
 </p>
 <P>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parimalongithub&show_icons=true&locale=en&layout=compact" alt="parimalongithub" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parimalongithub&show_icons=true&locale=en&layout=compact" alt="parimalongithub" />
 
