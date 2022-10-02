@@ -33,4 +33,4 @@
 <P>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parimalongithub&show_icons=true&locale=en&layout=compact" alt="parimalongithub" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parimalongithub&show_icons=true&locale=en" alt="parimalongithub" /></p>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parimalongithub&show_icons=true&locale=en" alt="parimalongithub" />
