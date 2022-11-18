@@ -15,7 +15,6 @@
 
 </p>
 
-<h3 align="left">Hactoberfest:</h3>
 
 
 [![@velocity's Holopin board](https://holopin.me/velocity)](https://holopin.io/@velocity)
