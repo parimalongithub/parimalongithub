@@ -3,7 +3,7 @@
 <p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimalongithub&label=Profile%20views&color=0e75b6&style=flat" alt="parimalongithub" /> </p>
 </p>
-- 🌱 I’m currently learning **Data structure and alogoritham**
+- 🌱 I’m currently learning **Data Structures And Algorithms**
 
 - 💬 Ask me about **Python,Java,Django**
 
